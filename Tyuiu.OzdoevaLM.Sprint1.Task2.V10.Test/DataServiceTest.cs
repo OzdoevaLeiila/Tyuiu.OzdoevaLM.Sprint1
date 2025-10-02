@@ -9,9 +9,9 @@ namespace Tyuiu.OzdoevaLM.Sprint1.Task2.V10.Test
         public void ValidExpression()
         {
             DataService ds = new DataService();
-            int metr = 2;
+            int metr = 6;
             var res = ds.ConvertMetreToInchs(metr);
-            Assert.AreEqual(78.740, res);
+            Assert.AreEqual(236.221, res);
         }
     }
 }
