@@ -33,6 +33,11 @@ namespace Tyuiu.OzdoevaLM.Sprint1.Task7.V26
             Console.WriteLine("Введите значение Y:");
             y = Convert.ToDouble(Console.ReadLine());
 
+
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("***************************************************************************");
+
             Console.WriteLine(ds.Calculate(x, y));
             Console.ReadKey();
 
