@@ -11,7 +11,7 @@ namespace Tyuiu.OzdoevaLM.Sprint1.Task4.V13
             Console.Title = "Спринт #1 | Выполнила: Оздоева Л. М. | ИИПб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #13                                                             *");
             Console.WriteLine("* Выполнила: Оздоева Лейла Магомедовна | ИИПб-25-1                        *");
