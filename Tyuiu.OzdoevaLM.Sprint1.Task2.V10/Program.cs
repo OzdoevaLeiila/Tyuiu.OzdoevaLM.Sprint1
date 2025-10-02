@@ -15,7 +15,7 @@ namespace Tyuiu.OzdoevaLM.Sprint1.Task2.V10
             Console.Title = "Спринт #1 | Выполнила: Оздоева Л. М. | ИИПб-25-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Организация ввода/вывода в консольных приложениях                 *");
+            Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнила: Оздоева Лейла Магомедовна | ИИПб-25-1                        *");
